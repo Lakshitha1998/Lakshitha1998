@@ -19,7 +19,7 @@
 
 <p align='center'>
     <a href=""><img height="30" src="https://img.icons8.com/color/50/000000/linkedin.png"></a>&nbsp;&nbsp;
-    <a href=""><img height="30" src="https://img.icons8.com/color/48/000000/facebook.png"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/ravindu.samarathunga"><img height="30" src="https://img.icons8.com/color/48/000000/facebook.png"></a>&nbsp;&nbsp;
     <a href=""><img height="30" src="https://img.icons8.com/fluent/50/000000/instagram-new.png"></a>&nbsp;&nbsp;
      <a href=""><img height="30" src="https://img.icons8.com/fluent/48/000000/gmail-new.png"></a>&nbsp;&nbsp;
    
